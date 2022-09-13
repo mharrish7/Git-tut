@@ -1,7 +1,11 @@
 Text file
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 =======
 This is first branch
 made some changes to be in main branch
+>>>>>>> Stashed changes
+=======
+main
 >>>>>>> Stashed changes
